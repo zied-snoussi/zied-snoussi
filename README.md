@@ -31,8 +31,4 @@
 <hr/>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zied-snoussi&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=zied-snoussi&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
-
-<p align="center">
-<a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-Cloudflare"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zied-snoussi&layout=compact&theme=merko">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=zied-snoussi&repo=The-Search-Of-Paths&theme=merko"></p>
+<img src="https://github-readme-stats.vercel.app/api?username=zied-snoussi&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=zied-snoussi&theme=merko&date_format=M%20j%5B%2C%20Y%5D"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zied-snoussi&layout=compact&theme=merko"></p>
