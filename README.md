@@ -6,13 +6,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zied-snoussi&label=Profile%20views&color=0e75b6&style=flat" alt="zied-snoussi" /> </p>
 
 
-- 🌱 I’m currently learning **Flusk**
+- 🌱 I’m currently learning everything 🤣
 
 - 💬 Ask me about **ReactJs, MongoDB, ExpressJs, JEE, Python ...**
+
+- 🥅 2023 Goals: Learn more about web3
 
 - 📫 How to reach me **ziedsnoussi.tn@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <p align="center">
 <a href="https://linkedin.com/in/zied-snoussi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zied-snoussi" height="30" width="40" /></a>
 <a href="https://fb.com/zied.snoussi.792" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zied.snoussi.792" height="30" width="40" /></a>
@@ -24,8 +29,10 @@
 
 <h3 align="center"> GitHub Stats: </h3>
 <hr/>
-<p align="center"><img align="center" height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=zied-snoussi&" alt="zied-snoussi" /></p>
 
-<p align="center"><img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs?username=zied-snoussi&show_icons=true&locale=en&layout=compact" alt="zied-snoussi" />   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zied-snoussi&show_icons=true&locale=en" alt="zied-snoussi"  height="160px"/></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=zied-snoussi&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=zied-snoussi&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
 
-
+<p align="center">
+<a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-Cloudflare"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zied-snoussi&layout=compact&theme=merko">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=zied-snoussi&repo=The-Search-Of-Paths&theme=merko"></p>
