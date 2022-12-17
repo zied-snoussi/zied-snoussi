@@ -26,6 +26,6 @@
 <hr/>
 <p align="center"><img align="center" width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=zied-snoussi&" alt="zied-snoussi" /></p>
 
-<p align="center"><img align="center" height="185px" src="https://github-readme-stats.vercel.app/api/top-langs?username=zied-snoussi&show_icons=true&locale=en&layout=compact" alt="zied-snoussi" />   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zied-snoussi&show_icons=true&locale=en" alt="zied-snoussi"  height="185px"/></p>
+<p align="center"><img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs?username=zied-snoussi&show_icons=true&locale=en&layout=compact" alt="zied-snoussi" />   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zied-snoussi&show_icons=true&locale=en" alt="zied-snoussi"  height="160px"/></p>
 
 
