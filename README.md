@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 
-- 💬 Ask me about **ReactJs, MongoDB, ExpressJs, JEE, Python ...**
+- 💬 Ask me about **ReactJs, MongoDB, ExpressJs, Java, PHP, Python, JavaScript ...**
 
 - 🥅 2023 Goals: Learn more about web3
 
