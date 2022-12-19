@@ -3,7 +3,7 @@
 <h1 align="center">Hello, world! 👋, I'm Zied Snoussi</h1>
 <h3 align="center">A self-taught developer, and a computer science student based in Nabeul, Tunisia. With +2 years of experience in full-stack development using different stacks, managing cloud servers, and writing efficient and scalable web scrapers. As a passionate programmer, I love writing clean and maintainable code</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=zied-snoussi&label=Profile%20views&color=0e75b6&style=flat" alt="zied-snoussi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zied-snoussi&label=Profile%20views&color=0e75b6&style=flat" alt="zied-snoussi" /> </p>
 
 
 - 🌱 I’m currently learning everything 🤣
