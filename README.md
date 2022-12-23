@@ -1,4 +1,3 @@
-<p align="center" width="100%"> <img src="https://res.cloudinary.com/b2s/image/upload/v1671299741/Industrial_Company_LinkedIn_Background_Image_-_Fait_avec_PosterMyWall_bijtra.jpg" alt="zied-snoussi" /> </p>
 
 <h1 align="center">Hello, world! 👋, I'm Zied Snoussi</h1>
 <h3 align="center">A self-taught developer, and a computer science student at ISIMS based in Sfax, Tunisia. With experience in full-stack development using different stacks, managing cloud servers, and writing efficient and scalable web scrapers. As a passionate programmer, I love writing clean and maintainable code</h3>
@@ -34,3 +33,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=zied-snoussi&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=zied-snoussi&theme=merko&date_format=M%20j%5B%2C%20Y%5D"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zied-snoussi&layout=compact&theme=merko"></p>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=zied-snoussi&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true"></p>
+MIT License
+Copyright (c) 2022-present lowlighter
