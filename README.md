@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zied-snoussi&label=Profile%20views&color=0e75b6&style=flat" alt="zied-snoussi" /> </p>
 
 
-- 🌱 I’m currently learning everything Github Actions for CI/CD DevOps Pipelines
+- 🌱 I’m currently learning everything **Github Actions for CI/CD DevOps Pipelines**
 
 - 💬 Ask me about **ReactJs, MongoDB, ExpressJs, Java, PHP, Python, JavaScript ...**
 
