@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zied-snoussi&label=Profile%20views&color=0e75b6&style=flat" alt="zied-snoussi" /> </p>
 
 
-- 🌱 I’m currently learning **Azure DevOps CI/CD pipelines | Create CI/CD pipelines for Java, .NET, NodeJs, Docker, Terraform, Nuget, Xamarin, SQL Server and ARM templates**
+- 🌱 I’m currently learning **Azure DevOps CI/CD pipelines | Create CI/CD pipelines for Java, .NET, NodeJs, Docker, Terraform, Nuget, Xamarin, SQL Server and ARM templates** from **https://lnkd.in/exWSx7Yh**
 
 - 💬 Ask me about **ReactJs, MongoDB, ExpressJs, Java, PHP, Python, JavaScript ...**
 
