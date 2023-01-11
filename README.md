@@ -11,7 +11,7 @@
 
 - 🥅 2023 Goals: Learn more about web3
 
-- 📫 How to reach me 
+- 📫 How to reach me **ziedsnoussi.tn@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <div id="header" align="center">
