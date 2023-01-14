@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **ReactJs, MongoDB, ExpressJs, Java, PHP, Python, JavaScript ...**
 
-- 🥅 2023 Goals: Learn more about web3
+- 🥅 2023 Goals: Learn more about web3 and learn more about soft skills
 
 - 📫 How to reach me **ziedsnoussi.tn@gmail.com**
 
