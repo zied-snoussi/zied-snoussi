@@ -5,13 +5,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zied-snoussi&label=Profile%20views&color=0e75b6&style=flat" alt="zied-snoussi" /> </p>
 
 
-- 🌱 I’m currently learning **Azure DevOps CI/CD pipelines | Create CI/CD pipelines for Java, .NET, NodeJs, Docker, Terraform, Nuget, Xamarin, SQL Server and ARM templates** from **https://lnkd.in/exWSx7Yh**
+- 🌱 I am currently working as a **freelance web developer and designer, gaining valuable experience in various projects.**
 
-- 💬 Ask me about **ReactJs, MongoDB, ExpressJs, Java, PHP, Python, JavaScript ...**
+- 💬 Feel free to ask me about **React.js, Node.js, Prisma, PostgreSQL, Selenium, JavaScript, Java, Python, Operating Systems, Cloud Computing, MongoDB, and more.**
 
-- 🥅 2023 Goals: Learn more about **web3** and learn more about **soft skills**
+- 🥅 My goals for 2023 include expanding my knowledge in **web3** technologies and further developing my **soft skills.**
 
-- 📫 How to reach me **ziedsnoussi.tn@gmail.com**
+- 📫 You can reach me at **ziedsnoussi.tn@gmail.com.**
 
 <h3 align="center">Connect with me:</h3>
 <div id="header" align="center">
