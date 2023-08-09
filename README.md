@@ -29,17 +29,10 @@
 <h3 align="center"> GitHub Stats : </h3>
 <hr/>
 
-<!-- Light Mode -->
 <div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=zied-snoussi&date_format=M%20j%5B%2C%20Y%5D&theme=default#gh-light-mode-only"/></p>
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=zied-snoussi&date_format=M%20j%5B%2C%20Y%5D&theme=dark"/></p>
+</div>
 
-<!-- Dark Mode -->
-<div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=zied-snoussi&date_format=M%20j%5B%2C%20Y%5D&theme=dark&bg_color=000000#gh-dark-mode-only"/></p>
-</a>
 <!-- Light Mode -->
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
@@ -61,8 +54,6 @@
 </div>
 
 <hr/>
-
-</div>
 <!-- Dark Mode -->
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
