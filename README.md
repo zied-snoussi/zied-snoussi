@@ -1,4 +1,3 @@
-
 <h1 align="center">Hello! 👋, I'm Zied Snoussi</h1>
 <h3 align="center">As a self-taught developer, I hold a diploma in Computer Science and Multimedia from the Higher Institute of Computer Science and Multimedia based in Sfax, Tunisia. With my expertise in full-stack development utilizing various technology stacks, I am experienced in managing cloud servers and implementing efficient and scalable web scrapers. My passion for programming drives me to consistently write clean, maintainable, and high-quality code, particularly in JavaScript.</h3>
 
@@ -30,6 +29,6 @@
 <hr/>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zied-snoussi&rank_icon=percentile"/><img src="https://github-readme-stats.vercel.app/api?username=zied-snoussi&show_icons=true&theme=merko"/><img src="https://github-readme-streak-stats.herokuapp.com?user=zied-snoussi&theme=merko&date_format=M%20j%5B%2C%20Y%5D"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zied-snoussi&layout=compact&theme=merko"/></p>
+<img src="https://github-readme-stats.vercel.app/api?username=zied-snoussi&rank_icon=percentile&show_icons=true&theme=merko"/><img src="https://github-readme-streak-stats.herokuapp.com?user=zied-snoussi&theme=merko&date_format=M%20j%5B%2C%20Y%5D"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zied-snoussi&layout=compact&theme=merko"/></p>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=zied-snoussi&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true"/></p>
