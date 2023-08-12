@@ -40,5 +40,5 @@
 <hr/>
 
 <div align="center"> 
-<img src="https://github-profile-trophy.vercel.app/?username=zied-snoussi&no-frame=true&row=1&margin-w=50&theme=dark&bg_color=000000"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=zied-snoussi&theme=onestar&row=1"/>
 </div>
