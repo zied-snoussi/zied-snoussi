@@ -33,31 +33,12 @@
 <img src="http://github-readme-streak-stats.herokuapp.com?user=zied-snoussi&theme=dark&background=000000"/></p>
 </div>
 
-<!-- Light Mode -->
 <div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zied-snoussi&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Rick Staa's Language stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zied-snoussi&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Rick Staa's Github stats" />
-</a>
-</div>
-
-<!-- Dark Mode -->
-<div align="center"> 
-<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zied-snoussi&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Language stats" />
-<img height=259  src="https://awesome-github-stats.azurewebsites.net/user-stats/zied-snoussi?cardType=level&theme=vision-friendly-dark&preferLogin=false&Text=D7D7D7&Title=DDDDDD&Border=DDD7D7&Background=000000&Ring=FF931D" />
+<img height=250 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zied-snoussi&layout=compact&langs_count=10&hide_border=false&role=owner,collaborator&theme=dark&bg_color=000000"/>
+<img height=250  src="https://awesome-github-stats.azurewebsites.net/user-stats/zied-snoussi?cardType=level&theme=vision-friendly-dark&preferLogin=false&Text=D7D7D7&Title=DDDDDD&Border=DDD7D7&Background=000000&Ring=FF931D" />
 </div>
 <hr/>
-<!-- Dark Mode -->
+
 <div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img src="https://github-profile-trophy.vercel.app/?username=zied-snoussi&no-frame=true&row=1&margin-w=30&theme=dark&bg_color=000000#gh-dark-mode-only"/>
-</a>
-</div>
-  <!-- Light Mode -->
-<div align="center"> 
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img src="https://github-profile-trophy.vercel.app/?username=zied-snoussi&no-frame=true&row=1&margin-w=30&theme=default#gh-light-mode-only"/></p>
-  </a>
+<img src="https://github-profile-trophy.vercel.app/?username=zied-snoussi&no-frame=true&row=1&margin-w=30&theme=dark&bg_color=000000"/>
 </div>
