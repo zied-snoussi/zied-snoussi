@@ -46,9 +46,8 @@
 <!-- Dark Mode -->
 <div align="center"> 
 <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zied-snoussi&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Language stats" />
-<img height=259  src="https://awesome-github-stats.azurewebsites.net/user-stats/zied-snoussi?cardType=level-alternate&theme=vision-friendly-dark&preferLogin=false" />
+<img height=259  src="https://awesome-github-stats.azurewebsites.net/user-stats/zied-snoussi?cardType=level&theme=vision-friendly-dark&preferLogin=false&Text=D7D7D7&Title=DDDDDD&Border=DDD7D7&Background=000000&Ring=FF931D" />
 </div>
-
 <hr/>
 <!-- Dark Mode -->
 <div align="center"> 
