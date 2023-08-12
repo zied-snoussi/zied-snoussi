@@ -34,8 +34,8 @@
 </div>
 
 <div align="center"> 
-<img height=250 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zied-snoussi&layout=compact&langs_count=10&hide_border=false&role=owner,collaborator&theme=dark&bg_color=000000"/>
-<img height=250  src="https://awesome-github-stats.azurewebsites.net/user-stats/zied-snoussi?cardType=level&theme=vision-friendly-dark&preferLogin=false&Text=D7D7D7&Title=DDDDDD&Border=DDD7D7&Background=000000&Ring=FF931D" />
+<img height=180 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zied-snoussi&layout=compact&langs_count=10&hide_border=false&role=owner,collaborator&theme=dark&bg_color=000000"/>
+<img height=180  src="https://awesome-github-stats.azurewebsites.net/user-stats/zied-snoussi?cardType=level&theme=vision-friendly-dark&preferLogin=false&Text=808080&Title=DDDDDD&Border=DDD7D7&Background=000000&Ring=FF931D" />
 </div>
 <hr/>
 
