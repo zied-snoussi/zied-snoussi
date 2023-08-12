@@ -42,3 +42,7 @@
 <div align="center"> 
 <img src="https://github-profile-trophy.vercel.app/?username=zied-snoussi&no-frame=true&row=1&margin-w=50&theme=dark&bg_color=000000"/>
 </div>
+<hr/>
+<div align="center">
+<img src="https://myreadme.vercel.app/api/embed/zied-snoussi?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+</div>
