@@ -29,7 +29,7 @@
 <h3 align="center"> GitHub Stats : </h3>
 <hr/>
 
-<div align="center"> 
+<div align="center">  
 <img src="http://github-readme-streak-stats.herokuapp.com?user=zied-snoussi&theme=dark&background=000000"/></p>
 </div>
 
@@ -37,6 +37,7 @@
 <img height=180 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zied-snoussi&layout=compact&langs_count=10&hide_border=false&role=owner,collaborator&theme=dark&bg_color=000000"/>
 <img height=180  src="https://awesome-github-stats.azurewebsites.net/user-stats/zied-snoussi?cardType=level&theme=vision-friendly-dark&preferLogin=false&Text=808080&Title=DDDDDD&Border=DDD7D7&Background=000000&Ring=FF931D" />
 </div>
+
 <hr/>
 
 <div align="center"> 
