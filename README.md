@@ -1,5 +1,5 @@
 [![Github](https://img.shields.io/github/followers/zied-snoussi?label=Follow&style=social)](https://github.com/zied-snoussi)
-<h1 align="center"> Hello! 👋, I'm Zied Snoussi</h1>
+<h1 align="center">Hello! 👋, I'm Zied Snoussi</h1>
 <h3 align="center">As a self-taught developer, I hold a diploma in Computer Science and Multimedia from the Higher Institute of Computer Science and Multimedia based in Sfax, Tunisia. With my expertise in full-stack development utilizing various technology stacks, I am experienced in managing cloud servers and implementing efficient and scalable web scrapers. My passion for programming drives me to consistently write clean, maintainable, and high-quality code, particularly in JavaScript.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zied-snoussi&label=Profile%20views&color=0e75b6&style=flat" alt="zied-snoussi" /> </p>
