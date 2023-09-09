@@ -22,12 +22,7 @@ I'm also a full-stack developer and front-end developer at Rooly.tn, as well as 
 <hr/>
 
 <div align="center">  
-<img src="http://github-readme-streak-stats.herokuapp.com?user=zied-snoussi&theme=dark&background=000000"/></p>
-</div>
-
-<div align="center"> 
-<img height=180 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zied-snoussi&layout=compact&langs_count=10&hide_border=false&role=owner,collaborator&theme=dark&bg_color=000000"/>
-<img height=180  src="https://awesome-github-stats.azurewebsites.net/user-stats/zied-snoussi?cardType=level&theme=vision-friendly-dark&preferLogin=false&Text=808080&Title=DDDDDD&Border=DDD7D7&Background=000000&Ring=FF931D" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=zied-snoussi&theme=dark&background=000000"/>
 </div>
 
 <hr/>
