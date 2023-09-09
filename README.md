@@ -6,6 +6,7 @@
 I'm also a full-stack developer and front-end developer at Rooly.tn, as well as a student in Software Engineering at Esprit 🚀.</h3>
 
 <hr/>
+
 - 🌱 I am currently learning more about **React.js, Next.js, and Tailwind CSS** to enhance my skills as a web developer and designer.
 
 - 💬 Feel free to ask me about **Node.js, Prisma, PostgreSQL, Selenium, JavaScript, Java, Python, Operating Systems, Cloud Computing, MongoDB, and more**.
