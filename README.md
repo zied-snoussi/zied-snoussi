@@ -1,9 +1,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zied-snoussi&label=Profile%20views&color=0e75b6&style=flat" alt="zied-snoussi" /> <img src="https://img.shields.io/github/followers/zied-snoussi?label=Follow&style=social" alt="zied-snoussi" /></p>
 
 <h1 align="center">Hello! 👋, I'm Zied Snoussi</h1>
-<h3>As a self-taught developer, I hold a diploma in Computer Science and Multimedia from the Higher Institute of Computer Science and Multimedia based in Sfax, Tunisia. With my expertise in full-stack development utilizing various technology stacks, I am experienced in managing cloud servers and implementing efficient and scalable web scrapers. My passion for programming drives me to consistently write clean, maintainable, and high-quality code, particularly in JavaScript.
+<p>As a self-taught developer, I hold a diploma in Computer Science and Multimedia from the Higher Institute of Computer Science and Multimedia based in Sfax, Tunisia. With my expertise in full-stack development utilizing various technology stacks, I am experienced in managing cloud servers and implementing efficient and scalable web scrapers. My passion for programming drives me to consistently write clean, maintainable, and high-quality code, particularly in JavaScript.
 <br/><br/>
-I'm also a full-stack developer and front-end developer at Rooly.tn, as well as a student in Software Engineering at Esprit 🚀.</h3>
+I'm also a full-stack developer and front-end developer at Rooly.tn, as well as a student in Software Engineering at Esprit 🚀.</p>
 
 <hr/>
 
