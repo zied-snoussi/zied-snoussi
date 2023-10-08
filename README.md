@@ -19,7 +19,7 @@ I'm also a full-stack developer and front-end developer at Rooly.tn, as well as 
 <h3 align="center">My Environment</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,linux,heroku,netlify,vercel,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,linux,vercel,postman,docker,bash,ai,github" />
 </p>
 
 <h3 align="center">Languages and Other Knowledge</h3>
