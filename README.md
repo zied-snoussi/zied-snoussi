@@ -41,6 +41,13 @@ I'm also a full-stack developer and front-end developer at Rooly.tn, as well as 
 </p>
 
 <h2 align="center">Connect with Me</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/zied-snoussi">
+    <img src="https://github.com/zied-snoussi/zied-snoussi/assets/74665047/6f6f9fd6-ef4b-42e8-a105-448c865fd2a6" width="315px" />
+  </a>
+</p>
+
               
 <p align="center">
   <a href="mailto:ziedsnoussi.tn@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
