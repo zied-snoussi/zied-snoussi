@@ -25,7 +25,7 @@ I'm also a full-stack developer and front-end developer at Rooly.tn, as well as 
 <h3 align="center">Languages and Other Knowledge</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,latex,jquery,mysql,selenium,blender,bootstrap,c,eclipse,flask,grafana,html,idea,ai,md,maven,nestjs,nginx,ps,php,postman,powershell,pr,py,regex,sqlite,stackoverflow,threejs,unity" />
+  <img src="https://skillicons.dev/icons?i=java,python,latex,jquery,mysql,selenium,blender,bootstrap,c,eclipse,flask,grafana,html,idea,md,maven,nestjs,nginx,ps,php,powershell,pr,py,regex,sqlite,stackoverflow,threejs,unity" />
 </p>
 
 <h2 align="center">GitHub Streak</h2>
