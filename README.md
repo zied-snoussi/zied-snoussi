@@ -13,7 +13,7 @@ I'm also a full-stack developer and front-end developer at Rooly.tn, as well as 
 <h3 align="center">My Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,redux,express,typescript,javascript,tailwindcss,prisma,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=react,next,redux,express,nodejs,typescript,javascript,tailwindcss,prisma,postgres,mongodb" />
 </p>
 
 <h3 align="center">My Environment</h3>
@@ -25,7 +25,7 @@ I'm also a full-stack developer and front-end developer at Rooly.tn, as well as 
 <h3 align="center">Languages and Other Knowledge</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,bash,latex,jquery,mysql,selenium,blender,bootstrap,c,eclipse,flask,github,grafana,html,idea,ai,md,maven,nestjs,nextjs,nginx,nodejs,ps,php,postman,powershell,pr,prisma,py,redux,regex,sqlite,stackoverflow,tailwind,threejs,ts,unity" />
+  <img src="https://skillicons.dev/icons?i=java,python,latex,jquery,mysql,selenium,blender,bootstrap,c,eclipse,flask,grafana,html,idea,ai,md,maven,nestjs,nginx,ps,php,postman,powershell,pr,py,regex,sqlite,stackoverflow,threejs,unity" />
 </p>
 
 <h2 align="center">GitHub Streak</h2>
