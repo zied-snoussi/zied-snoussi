@@ -27,7 +27,12 @@
 <p align="center">As a self-taught developer, I hold a diploma in Computer Science and Multimedia from the Higher Institute of Computer Science and Multimedia based in Sfax, Tunisia. With my expertise in full-stack development utilizing various technology stacks, I am experienced in managing cloud servers and implementing efficient and scalable web scrapers. My passion for programming drives me to consistently write clean, maintainable, and high-quality code, particularly in JavaScript.</p>
 <p align="center">I'm also a full-stack developer and front-end developer at Rooly.tn, as well as a student in Software Engineering at Esprit 🚀.</p>
 <hr/>
-
+<!-- activity graph heroku-app start -->
+<p align="center">
+    <a href="https://wakatime.com/@Goblin8888">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=zied-snoussi&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</p>
 <h3 align="center">My Stack</h3>
 
 <p align="center">
