@@ -2,11 +2,11 @@
 <a href="https://github.com/zied-snoussi">
   <img src="https://komarev.com/ghpvc/?username=zied-snoussi&label=Profile%20views&color=0e75b6&style=flat" alt="zied-snoussi" />
 </a>
-  <a href="https://github.com/zied-snoussi">
+<a href="https://github.com/zied-snoussi">
   <img src="https://img.shields.io/github/followers/zied-snoussi?label=Follow&style=social" alt="zied-snoussi" />
-  </a>
-    <a href="https://www.linkedin.com/in/zied-snoussi/">
-<img width="20px" src="https://cdn.simpleicons.org/linkedin"  />
+</a>
+<a href="https://www.linkedin.com/in/zied-snoussi/">
+  <img width="20px" src="https://cdn.simpleicons.org/linkedin"  />
 </a>
 <a href="https://twitter.com/ziedalsnoussi">
   <img width="20px" src="https://cdn.simpleicons.org/twitter" />
@@ -27,12 +27,13 @@
 <p align="center">As a self-taught developer, I hold a diploma in Computer Science and Multimedia from the Higher Institute of Computer Science and Multimedia based in Sfax, Tunisia. With my expertise in full-stack development utilizing various technology stacks, I am experienced in managing cloud servers and implementing efficient and scalable web scrapers. My passion for programming drives me to consistently write clean, maintainable, and high-quality code, particularly in JavaScript.</p>
 <p align="center">I'm also a full-stack developer and front-end developer at Rooly.tn, as well as a student in Software Engineering at Esprit 🚀.</p>
 <hr/>
-<!-- activity graph heroku-app start -->
+
 <p align="center">
     <a href="#">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=zied-snoussi&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
+
 <h3 align="center">My Stack</h3>
 
 <p align="center">
