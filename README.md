@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 <p align="left">
 <a href="https://github.com/zied-snoussi">
   <img src="https://komarev.com/ghpvc/?username=zied-snoussi&label=Profile%20views&color=0e75b6&style=flat" alt="zied-snoussi" />
@@ -55,7 +56,7 @@
 <h2 align="center">GitHub Streak</h2>
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=zied-snoussi&theme=dark&background=000000" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=zied-snoussi&theme=react&background=000000" />
 </p>
 
 <h2 align="center">GitHub Trophies</h2>
