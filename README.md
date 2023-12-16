@@ -56,7 +56,7 @@
 <h2 align="center">GitHub Streak</h2>
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=zied-snoussi&theme=react&background=000000" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=zied-snoussi&theme=dark-smoky&background=000000" />
 </p>
 
 <h2 align="center">GitHub Trophies</h2>
