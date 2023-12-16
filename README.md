@@ -26,7 +26,7 @@
 
 <p align="center">As a self-taught developer, I hold a diploma in Computer Science and Multimedia from the Higher Institute of Computer Science and Multimedia based in Sfax, Tunisia. With my expertise in full-stack development utilizing various technology stacks, I am experienced in managing cloud servers and implementing efficient and scalable web scrapers. My passion for programming drives me to consistently write clean, maintainable, and high-quality code, particularly in JavaScript.</p>
 <p align="center">I'm also a full-stack developer and front-end developer at Rooly.tn, as well as a student in Software Engineering at Esprit 🚀.</p>
-<hr/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 
 <p align="center">
     <a href="#">
@@ -63,3 +63,4 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=zied-snoussi&theme=onestar&row=1" />
 </p>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
