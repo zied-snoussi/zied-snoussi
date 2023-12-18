@@ -7,19 +7,19 @@
   <img src="https://img.shields.io/github/followers/zied-snoussi?label=Follow&style=social" alt="zied-snoussi" />
 </a>
 <a href="https://www.linkedin.com/in/zied-snoussi/">
-  <img width="20px" src="https://cdn.simpleicons.org/linkedin"  />
+  <img align="right" width="20px" src="https://cdn.simpleicons.org/linkedin"  />
 </a>
 <a href="https://twitter.com/ziedalsnoussi">
-  <img width="20px" src="https://cdn.simpleicons.org/twitter" />
+  <img align="right" width="20px" src="https://cdn.simpleicons.org/twitter" />
 </a>
 <a href="mailto:ziedsnoussi.tn@gmail.com">
-  <img width="20px" src="https://cdn.simpleicons.org/gmail" />
+  <img align="right" width="20px" src="https://cdn.simpleicons.org/gmail" />
 </a>
 <a href="https://www.youtube.com/@ziedsnoussi">
-  <img width="20px" src="https://cdn.simpleicons.org/youtube" />
+  <img align="right" width="20px" src="https://cdn.simpleicons.org/youtube" />
 </a>
 <a href="https://medium.com/@ziedsnoussi.tn">
-  <img width="20px" src="https://cdn.simpleicons.org/medium/777777" />
+  <img align="right" width="20px" src="https://cdn.simpleicons.org/medium/777777" />
 </a>
 </p>
 
