@@ -37,40 +37,40 @@
 
 <!-- Statistics Section -->
 <h3 align="center">Statistics</h3>
-<p align="center">
+<div align="center">
     <a href="#">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=zied-snoussi&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
-</p>
+</div>
 
 <!-- Technology Stack Section -->
 <h3 align="center">My Stack</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,redux,express,nodejs,typescript,javascript,tailwindcss,prisma,postgres,mongodb" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,redux,express,nodejs,typescript,javascript,tailwindcss,prisma,postgres,mongodb" alt="react,next,redux,express,nodejs,typescript,javascript,tailwindcss,prisma,postgres,mongodb"/>
+</div>
 
 <!-- Environment Section -->
 <h3 align="center">My Environment</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,linux,vercel,postman,docker,bash,ai,github" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,vscode,linux,vercel,postman,docker,bash,ai,github" alt="git,vscode,linux,vercel,postman,docker,bash,ai,github"/>
+</div>
 
 <!-- Languages and Other Knowledge Section -->
 <h3 align="center">Languages and Other Knowledge</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,latex,jquery,mysql,selenium,blender,bootstrap,c,eclipse,flask,grafana,html,idea,md,,maven,nestjs,nginx,ps,php,powershell,pr,py,regex,sqlite,stackoverflow,threejs,unity" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,latex,jquery,mysql,selenium,blender,bootstrap,c,eclipse,flask,grafana,html,idea,md,,maven,nestjs,nginx,ps,php,powershell,pr,py,regex,sqlite,stackoverflow,threejs,unity" alt="java,python,latex,jquery,mysql,selenium,blender,bootstrap,c,eclipse,flask,grafana,html,idea,md,,maven,nestjs,nginx,ps,php,powershell,pr,py,regex,sqlite,stackoverflow,threejs,unity"/>
+</div>
 
 <!-- GitHub Streak Section -->
 <h2 align="center">GitHub Streak</h2>
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=zied-snoussi&theme=dark-smoky&background=000000" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=zied-snoussi&theme=dark-smoky&background=000000" alt="github streak"/>
 </p>
 
 <!-- GitHub Trophies Section -->
 <h2 align="center">GitHub Trophies</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zied-snoussi&theme=onestar&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zied-snoussi&theme=onestar&row=1" alt="github trophies"/>
 </p>
 
 <!-- Bottom Header -->
