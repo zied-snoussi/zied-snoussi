@@ -2,29 +2,29 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
 <!-- Social Links and Badges -->
-<p align="left">
-<a href="https://github.com/zied-snoussi">
-  <img src="https://komarev.com/ghpvc/?username=zied-snoussi&label=Profile%20views&color=0e75b6&style=flat" alt="zied-snoussi" />
-</a>
-<a href="https://github.com/zied-snoussi">
-  <img src="https://img.shields.io/github/followers/zied-snoussi?label=Follow&style=social" alt="zied-snoussi" />
-</a>
-<a href="https://www.linkedin.com/in/zied-snoussi/">
-  <img align="right" width="20px" src="https://cdn.simpleicons.org/linkedin"  />
-</a>
-<a href="https://twitter.com/ziedalsnoussi">
-  <img align="right" width="20px" src="https://cdn.simpleicons.org/twitter" />
-</a>
-<a href="mailto:ziedsnoussi.tn@gmail.com">
-  <img align="right" width="20px" src="https://cdn.simpleicons.org/gmail" />
-</a>
-<a href="https://www.youtube.com/@ziedsnoussi">
-  <img align="right" width="20px" src="https://cdn.simpleicons.org/youtube" />
-</a>
-<a href="https://medium.com/@ziedsnoussi.tn">
-  <img align="right" width="20px" src="https://cdn.simpleicons.org/medium/777777" />
-</a>
-</p>
+<div align="left">
+  <a href="https://github.com/zied-snoussi">
+    <img src="https://komarev.com/ghpvc/?username=zied-snoussi&label=Profile%20views&color=0e75b6&style=flat" alt="zied-snoussi" />
+  </a>
+  <a href="https://github.com/zied-snoussi">
+    <img src="https://img.shields.io/github/followers/zied-snoussi?label=Follow&style=social" alt="zied-snoussi" />
+  </a>
+  <a href="https://www.linkedin.com/in/zied-snoussi/">
+    <img align="right" width="20px" src="https://cdn.simpleicons.org/linkedin"  />
+  </a>
+  <a href="https://twitter.com/ziedalsnoussi">
+    <img align="right" width="20px" src="https://cdn.simpleicons.org/twitter" />
+  </a>
+  <a href="mailto:ziedsnoussi.tn@gmail.com">
+    <img align="right" width="20px" src="https://cdn.simpleicons.org/gmail" />
+  </a>
+  <a href="https://www.youtube.com/@ziedsnoussi">
+    <img align="right" width="20px" src="https://cdn.simpleicons.org/youtube" />
+  </a>
+  <a href="https://medium.com/@ziedsnoussi.tn">
+    <img align="right" width="20px" src="https://cdn.simpleicons.org/medium/777777" />
+  </a>
+</div>
 
 <!-- Introduction -->
 <h1 align="center">Hello!  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/>, I'm Zied Snoussi</h1>
