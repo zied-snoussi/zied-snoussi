@@ -4,7 +4,10 @@
 <!-- Social Links and Badges -->
 <div align="left">
   <a href="https://github.com/zied-snoussi">
-    <img src="https://komarev.com/ghpvc/?username=zied-snoussi&label=Profile%20views&color=0e75b6&style=flat" alt="zied-snoussi" />
+    <img src="https://komarev.com/ghpvc/?username=zied-snoussi&label=Profile%20views&color=0e75b6&style=flat" alt="zied-snoussi"/>
+  </a>
+  <a href="https://www.map.org.uk">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/640px-Flag_of_Palestine.svg.png" alt="Support Palestine" height="20px">
   </a>
   <a href="https://github.com/zied-snoussi">
     <img src="https://img.shields.io/github/followers/zied-snoussi?label=Follow&style=social" alt="zied-snoussi" />
