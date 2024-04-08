@@ -69,9 +69,7 @@
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=zied-snoussi&theme=dark-smoky&background=000000" alt="github streak"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zied-snoussi\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="github streak"/>
-</p>
+
 <!-- GitHub Trophies Section -->
 <h2 align="center">GitHub Trophies</h2>
 <p align="center">
