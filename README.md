@@ -12,6 +12,9 @@
   <a href="https://github.com/zied-snoussi">
     <img src="https://img.shields.io/github/followers/zied-snoussi?label=Follow&style=social" alt="zied-snoussi" />
   </a>
+    <a href="https://user-badge.committers.top/tunisia_private/zied-snoussi">
+    <img src="https://user-badge.committers.top/tunisia_private/zied-snoussi.svg" alt="zied-snoussi" />
+  </a>
   <a href="https://www.linkedin.com/in/zied-snoussi/">
     <img align="right" width="20px" src="https://cdn.simpleicons.org/linkedin"  />
   </a>
@@ -69,6 +72,7 @@
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=zied-snoussi&theme=dark-smoky&background=000000" alt="github streak"/>
 </p>
+
 
 <!-- GitHub Trophies Section -->
 <h2 align="center">GitHub Trophies</h2>
