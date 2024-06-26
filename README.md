@@ -19,7 +19,7 @@
     <img align="right" width="20px" src="https://cdn.simpleicons.org/linkedin"  />
   </a>
   <a href="https://twitter.com/ziedalsnoussi">
-    <img align="right" width="20px" src="https://cdn.simpleicons.org/twitter" />
+    <img align="right" width="20px" src="https://cdn.simpleicons.org/x" />
   </a>
   <a href="mailto:ziedsnoussi.tn@gmail.com">
     <img align="right" width="20px" src="https://cdn.simpleicons.org/gmail" />
