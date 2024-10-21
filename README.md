@@ -64,7 +64,7 @@
 <!-- Languages and Other Knowledge Section -->
 <h3 align="center">Languages and Other Knowledge</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,latex,jquery,mysql,selenium,blender,bootstrap,c,eclipse,flask,grafana,html,idea,md,,maven,nestjs,nginx,ps,php,powershell,pr,py,regex,sqlite,stackoverflow,threejs,unity" alt="java,python,latex,jquery,mysql,selenium,blender,bootstrap,c,eclipse,flask,grafana,html,idea,md,,maven,nestjs,nginx,ps,php,powershell,pr,py,regex,sqlite,stackoverflow,threejs,unity"/>
+  <img src="https://skillicons.dev/icons?i=java,angular,graphql,python,latex,jquery,mysql,selenium,blender,bootstrap,c,eclipse,flask,grafana,html,idea,md,maven,nestjs,nginx,ps,php,powershell,pr,py,regex,sqlite,stackoverflow,threejs,unity" alt="java,angular,graphql,python,latex,jquery,mysql,selenium,blender,bootstrap,c,eclipse,flask,grafana,html,idea,md,maven,nestjs,nginx,ps,php,powershell,pr,py,regex,sqlite,stackoverflow,threejs,unity"/>
 </div>
 
 <!-- GitHub Streak Section -->
