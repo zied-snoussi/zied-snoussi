@@ -33,10 +33,14 @@
 </div>
 
 <!-- Introduction -->
-<h1 align="center">Hello!  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/>, I'm Zied Snoussi</h1>
-<a href="https://github.com/zied-snoussi">   
-  <img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="170">
-</a>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&color=1E90FF&width=435&height=100&lines=I+am+Zied+Snoussi;Full+Stack+Developer;Software+Engineering+Student;Tech+Enthusiast" alt="Typing SVG" />
+  </a>
+  <a href="https://github.com/zied-snoussi">   
+    <img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="170">
+  </a>
+</div>
 <p align="center">As a self-taught developer, I hold a diploma in Computer Science and Multimedia from the Higher Institute of Computer Science and Multimedia based in Sfax, Tunisia. With my expertise in full-stack development utilizing various technology stacks, I am experienced in managing cloud servers and implementing efficient and scalable web scrapers. My passion for programming drives me to consistently write clean, maintainable, and high-quality code, particularly in JavaScript.</p>
 <p align="center">I'm also a full-stack Developer at As Solutions R&D, as well as a student in Software Engineering at Esprit 🚀.</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
