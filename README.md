@@ -59,13 +59,6 @@ More on my [portfolio](https://zied-snoussi.vercel.app).
 - **Anthropic Academy** (2026): Claude with the Anthropic API · Introduction to Model Context Protocol · Introduction to agent skills · Claude Code in Action
 - GitHub Actions for CI/CD (Udemy) · Microsoft MTA 98-381 (Python) & 98-383 (HTML/CSS)
 
-## 📈 GitHub activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zied-snoussi&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" alt="GitHub stats"/>
-  <img src="https://streak-stats.demolab.com?user=zied-snoussi&theme=dark&hide_border=true" alt="GitHub streak"/>
-</div>
-
 <p align="center"><i>Most of my recent work lives in private company and university repositories.</i></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3C5ADC,100:1E90FF&height=90&section=footer"/>
