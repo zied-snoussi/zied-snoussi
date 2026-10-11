@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3C5ADC,100:1E90FF&height=140&section=header&text=Zied%20Snoussi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20AI%20Engineer&descAlignY=62"/>
+<img width="100%" src="assets/banner.png" alt="Zied Snoussi, Full-Stack AI Engineer"/>
 
 <div align="center">
 
@@ -9,7 +9,7 @@
 <a href="https://medium.com/@ziedsnoussi.tn"><img src="https://img.shields.io/badge/Medium-@ziedsnoussi.tn-12100E?style=flat&logo=medium&logoColor=white" alt="Medium"/></a>
 <a href="https://www.map.org.uk"><img src="https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B8_Support-Palestine-149954?style=flat" alt="Support Palestine"/></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&color=3C5ADC&width=520&height=50&lines=I+ship+LLM+features+to+production;RAG+%C2%B7+AI+agents+%C2%B7+evals;TypeScript+%C2%B7+NestJS+%C2%B7+Next.js+%C2%B7+Spring+Boot" alt="Typing SVG"/></a>
+<h3>I ship LLM features to production: RAG · AI agents · evals</h3>
 
 </div>
 
