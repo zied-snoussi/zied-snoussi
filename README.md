@@ -7,7 +7,7 @@
 <a href="mailto:ziedsnoussi.tn@gmail.com"><img src="https://img.shields.io/badge/Email-ziedsnoussi.tn%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://twitter.com/ziedalsnoussi"><img src="https://img.shields.io/badge/X-@ziedalsnoussi-000000?style=flat&logo=x&logoColor=white" alt="X"/></a>
 <a href="https://medium.com/@ziedsnoussi.tn"><img src="https://img.shields.io/badge/Medium-@ziedsnoussi.tn-12100E?style=flat&logo=medium&logoColor=white" alt="Medium"/></a>
-<a href="https://www.map.org.uk"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/640px-Flag_of_Palestine.svg.png" alt="Support Palestine" height="20px"></a>
+<a href="https://www.map.org.uk"><img src="https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B8_Support-Palestine-149954?style=flat" alt="Support Palestine"/></a>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&color=3C5ADC&width=520&height=50&lines=I+ship+LLM+features+to+production;RAG+%C2%B7+AI+agents+%C2%B7+evals;TypeScript+%C2%B7+NestJS+%C2%B7+Next.js+%C2%B7+Spring+Boot" alt="Typing SVG"/></a>
 
@@ -62,7 +62,7 @@ More on my [portfolio](https://zied-snoussi.vercel.app).
 ## 📈 GitHub activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zied-snoussi&theme=react-dark&hide_border=true&area=true&custom_title=Contributions" width="95%" alt="activity graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zied-snoussi&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" alt="GitHub stats"/>
   <img src="https://streak-stats.demolab.com?user=zied-snoussi&theme=dark&hide_border=true" alt="GitHub streak"/>
 </div>
 
